@@ -1,5 +1,5 @@
 ### Assignment-10
-This Assignment covers JQuery Traversal's, Usage of 3rd party plugins to create UI's. We use CDN for JQuery.
+This assignment covers JQuery traversals and the use of third-party plugins to develop user interfaces. For JQuery, we use CDN.
 
 #### Technologies
 1. HTML
